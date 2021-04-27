@@ -5,7 +5,7 @@
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green&layout=compact)
 
 Languages:
-(https://img.shields.io/badge/-Python-black?logo=Python&style=social)
+[C ](https://img.shields.io/badge/-c-black?logo=c&style=social)
 
 <!--
 - 🔭 I’m currently working on ...
