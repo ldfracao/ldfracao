@@ -2,7 +2,7 @@
 ### I'm Leandro
 ## Welcome to my Github page, glad to see you here!!!
 
-[![ldfracao's github trophy](https://github-profile-trophy.vercel.app/?username=ldfracao&row=1)](https://github.com/ldfracao/github-profile-trophy)
+[![ldfracao's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/ldfracao/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
