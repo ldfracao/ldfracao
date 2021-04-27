@@ -1,7 +1,8 @@
 ### Hello fellow dev 👋 I'm Leandro
 ### Welcome to my Github page, glad to see you here!!!
 
-<img alt="Do something great" src="dosomethinggreat.jpg"/>
+<img alt="Do something great" src="dosomethinggreat.jpg" height="200px"/>
+<p>Image credits: https://unsplash.com/@clarktibbs </p>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ldfracao&theme=blue-green)
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green&layout=compact)
