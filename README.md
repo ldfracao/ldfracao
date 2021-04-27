@@ -3,7 +3,7 @@
 ### Hello fellow dev 👋 I'm Leandro
 ### Welcome to my Github page, glad to see you here!!!
 
-I'm a self taught developer endulging in the art of 0s and 1s
+I'm a self taught developer indulging in the art of 0s and 1s
 
 <img alt="Do something great" src="binary_alexander_sinn_unplash.jpg" width="100%" height="200px"/>
 Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Sinn</a> on <a href="https://unsplash.com/s/photos/binary-code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -13,7 +13,8 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 
 **Programming languages:**
 
-<img align="left" alt="C" src="hhttps://iconscout.com/icon/c-programming" width="30px"/> <img align="left" alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px"/> <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" width="30px"/> <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="30px"/> <img align="left" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="30px"/>
+<img align="left" alt="C" src="hhttps://iconscout.com/icon/c-programming    " width="30px"/> <img align="left" alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px"/> <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" width="30px"/> <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="30px"/> <img align="left" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="30px"/>
+<br>
 
 **Tools of the trade:**
 
