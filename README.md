@@ -2,8 +2,8 @@
 ### I'm Leandro
 ## Welcome to my Github page, glad to see you here!!!
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ldfracao&theme=blue)](https://github.com/ldfracao/github-readme-stats)
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green)](https://github.com/ldfraco/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=ldfracao&theme=blue-green)](https://github.com/ldfracao/github-readme-stats)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green)](https://github.com/ldfracao/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
