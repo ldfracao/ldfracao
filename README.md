@@ -1,9 +1,11 @@
-### Hello fellow </dev> 👋
-### I'm Leandro
+### Hello fellow </dev> 👋 I'm Leandro
 ## Welcome to my Github page, glad to see you here!!!
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ldfracao&theme=blue-green)
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green&layout=compact)
+
+Languages:
+(https://img.shields.io/badge/-Python-black?logo=Python&style=social)
 
 <!--
 - 🔭 I’m currently working on ...
