@@ -1,9 +1,8 @@
-### Hello fellow <dev> 👋
+### Hello fellow </dev> 👋
 ### I'm Leandro
 ## Welcome to my Github page, glad to see you here!!!
 
-Languages:
-![C language logo](https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png "C language logo")
+[![ldfracao's github trophy](https://github-profile-trophy.vercel.app/?username=ldfracao&row=1)](https://github.com/ldfracao/github-profile-trophy)
 
 <!--
 - 🔭 I’m currently working on ...
