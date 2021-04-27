@@ -11,6 +11,7 @@
 
 <img align="left" alt="C" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png" width="30px"/> <img align="left" alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px"/> <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" width="30px"/> <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="30px"/> <img align="left" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="30px"/>
 
+
 **Tools of the trade:**
 
 <img align="left" alt="visual studio code logo" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
