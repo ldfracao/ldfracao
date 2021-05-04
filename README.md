@@ -5,15 +5,13 @@
 <p>Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Sinn</a> on <a href="https://unsplash.com/s/photos/binary-code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
 </figcaption>
 </figure>
-<br />
 
-### Hello fellow dev 👋 I'm Leandro, hold on to your coffee and enjoy the ride!
+### Hello fellow dev 👋 I'm Leandro, hold on to your :coffee: and enjoy the ride!
 
 ## :man: About me 
 
 <p> I'm a self taught developer indulging in the art of 0s and 1s</p>
-
-<br />
+<p> In my free time I like to ...wait... THERE IS NO FREE TIME!</p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ldfracao&theme=blue-green&bg_color=0,000000,053000&text_color=FFFFFF&custom_title=Hero's stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green&layout=compact&exclude_repo=nand2tetris&bg_color=0,053000,095c00&text_color=FFFFFF&custom_title=Super powers">
 
