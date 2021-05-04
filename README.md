@@ -11,7 +11,6 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <br />
 
 ## About me
-<hr />
 
 <p> I'm a self taught developer indulging in the art of 0s and 1s</p>
 
@@ -22,7 +21,6 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <br />
 
 <h2>Programming languages: :computer:</h2>
-<hr>
 
 <a href="http://www.open-std.org/">
 <img align="left" alt="C logo" src="https://img.icons8.com/color/48/000000/c-programming.png" /></a>
@@ -36,7 +34,6 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <br />
 
 <h2>Tools of the trade: :hammer_and_wrench:</h2>
-<hr>
 
 <a href="https://code.visualstudio.com/">
 <img align="left" alt="visual studio code logo" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
