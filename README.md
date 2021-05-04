@@ -1,9 +1,10 @@
 # :construction: Under construction
-
+<figure>
 <img alt="zeros and ones with a heart pattern" src="binary_alexander_sinn_unplash.jpg" width="100%" height="200px"/>
-Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Sinn</a> on <a href="https://unsplash.com/s/photos/binary-code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-<br />
+<figcaption>
+<p>Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Sinn</a> on <a href="https://unsplash.com/s/photos/binary-code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+</figcaption>
+</figure>
 <br />
 
 ### Hello fellow dev 👋 I'm Leandro, hold on to your coffee and enjoy the ride!
@@ -29,7 +30,7 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <br />
 <br />
 
-<h2>:hammer_and_wrench: Tools of the trade: </h2>
+<h2>:hammer_and_wrench: Tools of the trade </h2>
 
 <a href="https://code.visualstudio.com/">
 <img align="left" alt="visual studio code logo" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
