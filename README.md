@@ -13,8 +13,9 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 
 **Programming languages:**
 
-<img align="left" alt="C" src="hhttps://iconscout.com/icon/c-programming    " width="30px"/> <img align="left" alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px"/> <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" width="30px"/> <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="30px"/> <img align="left" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="30px"/>
+<img align="left" alt="C" src="" width="30px"/> <img align="left" alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px"/> <img align="left" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="30px"/> <img align="left" alt="JavaScript" src="https://img.icons8.com/color/144/000000/javascript.png" width="30px"/> <img align="left" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30px"/>
 <br>
+
 
 **Tools of the trade:**
 
