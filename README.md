@@ -12,9 +12,10 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <p> I'm a self taught developer indulging in the art of 0s and 1s</p>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ldfracao&theme=blue-green)
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green&layout=compact)
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green&layout=compact&exclude_repo=nand2tetris)
 
-**Programming languages:**
+
+:computer: **Programming languages:**
 
 <img align="left" alt="C logo" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img align="left" alt="HTML5 logo" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> <img align="left" alt="CSS3 logo" src="https://img.icons8.com/color/48/000000/css3.png" /> <img align="left" alt="JavaScript logo" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img align="left" alt="Python logo" src="https://img.icons8.com/color/48/000000/python.png" />
 
@@ -22,7 +23,7 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <br />
 <br />
 
-**Tools of the trade:**
+:hammer_and_wrench: **Tools of the trade:**
 
 <img align="left" alt="visual studio code logo"  src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git logo"  src="https://img.icons8.com/color/48/000000/git.png"/> </a>
