@@ -6,11 +6,9 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <br />
 <br />
 
-### Hello fellow dev 👋 I'm Leandro
-### Hold on to your coffee and enjoy the ride!
-<br />
+### Hello fellow dev 👋 I'm Leandro, hold on to your coffee and enjoy the ride!
 
-## About me
+## About me :man:
 
 <p> I'm a self taught developer indulging in the art of 0s and 1s</p>
 
