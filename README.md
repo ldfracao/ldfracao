@@ -13,7 +13,7 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 
 <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=ldfracao&theme=blue-green&bg_color=0,000000,053000&text_color=FFFFFF">
 
-<img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green&layout=compact&exclude_repo=nand2tetris&bg_color=0,053000,095c00&text_color=FFFFFF">
+<img height="200em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green&layout=compact&exclude_repo=nand2tetris&bg_color=0,053000,095c00&text_color=FFFFFF">
 
 :computer: **Programming languages:**
 
