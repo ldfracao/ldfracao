@@ -8,7 +8,7 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 
 ### Hello fellow dev 👋 I'm Leandro, hold on to your coffee and enjoy the ride!
 
-## About me :man:
+## :man: About me 
 
 <p> I'm a self taught developer indulging in the art of 0s and 1s</p>
 
@@ -16,7 +16,7 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ldfracao&theme=blue-green&bg_color=0,000000,053000&text_color=FFFFFF&custom_title=Hero's stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green&layout=compact&exclude_repo=nand2tetris&bg_color=0,053000,095c00&text_color=FFFFFF&custom_title=Super powers">
 
-<h2>Programming languages: :computer:</h2>
+<h2>:computer: Programming languages </h2>
 
 <a href="http://www.open-std.org/">
 <img align="left" alt="C logo" src="https://img.icons8.com/color/48/000000/c-programming.png" /></a>
@@ -29,7 +29,7 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <br />
 <br />
 
-<h2>Tools of the trade: :hammer_and_wrench:</h2>
+<h2>:hammer_and_wrench: Tools of the trade: </h2>
 
 <a href="https://code.visualstudio.com/">
 <img align="left" alt="visual studio code logo" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
