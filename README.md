@@ -13,15 +13,16 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 
 **Programming languages:**
 
-<img align="left" alt="C" src="" width="30px"/> <img align="left" alt="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px"/> <img align="left" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="30px"/> <img align="left" alt="JavaScript" src="https://img.icons8.com/color/144/000000/javascript.png" width="30px"/> <img align="left" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30px"/>
-<br>
+<img align="left" alt="C logo" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img align="left" alt="HTML5 logo" src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> <img align="left" alt="CSS3 logo" src="https://img.icons8.com/color/48/000000/css3.png" /> <img align="left" alt="JavaScript logo" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img align="left" alt="Python logo" src="https://img.icons8.com/color/48/000000/python.png" />
 
+<br />
+<br />
 
 **Tools of the trade:**
 
-<img align="left" alt="visual studio code logo" width="30px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="ubuntu logo" width="30px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"/>
+<img align="left" alt="visual studio code logo"  src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git logo"  src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+<img align="left" alt="ubuntu logo"  src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 
 
 <!--
