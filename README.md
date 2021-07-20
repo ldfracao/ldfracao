@@ -33,10 +33,10 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <h2>:hammer_and_wrench: Tools of the trade </h2>
 
 <a href="https://code.visualstudio.com/">
-<img alt="visual studio code logo" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
-<a href="https://git-scm.com/"><img alt="git logo" src="https://img.icons8.com/color/48/000000/git.png"/></a>
+<img align="left" alt="visual studio code logo" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="git logo" src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://ubuntu.com/">
-<img alt="ubuntu logo" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
+<img align="left" alt="ubuntu logo" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
 <a href="https://www.gimp.org/"><img src="https://img.icons8.com/fluent/50/000000/gimp.png"/></a>
 
 <!--
