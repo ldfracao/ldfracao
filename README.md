@@ -8,12 +8,12 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 ### Hello fellow dev 👋 I'm Leandro, hold on to your :coffee:
 
 ## :man: About me 
-<p> I'm a self taught developer indulging in the art of 0s and 1s interested in all things technology</p>
+<p> I'm a self taught developer indulging in the art of 0s and 1s interested in all things technology with a special interest in low-level development</p>
 <p> In my free time I like to ...wait... THERE IS NO FREE TIME!!!</p>
 
 - 🔭 I’m currently studying for the LPIC-1 and CLE-10-01 certificates
 - 🌐 I'm currently learning 🇮🇹 italian 🇮🇹 and 🇩🇪  german 🇩🇪 
-<!-- - 👯 I’m looking to collaborate on open source projects in order to improve my skills. -->
+- 👯 I’m looking to collaborate on open source projects in order to improve my skills.
 
 <br />
 📫 How to reach me:
@@ -45,13 +45,7 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <img align="left" alt="ubuntu logo" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
 <a href="https://www.gimp.org/"><img src="https://img.icons8.com/fluent/50/000000/gimp.png"/></a>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>:man_in_tuxedo :Outside of coding I enjoy:</h2>
+<p>:notes: Playing acoustic/eletric guitar. :guitar:</p>
+<p>:headphones: Listening to different types of music, from classical music all the way to heavy metal.</p>
+<p>:video_game: Playing games like Overwatch or CS:GO.</p>
