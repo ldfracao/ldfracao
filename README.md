@@ -14,7 +14,6 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 - 🔭 I’m currently studying for the LPIC-1 and CLE-10-01 certificates.
 - 🌐 I'm currently learning 🇮🇹 italian 🇮🇹 and 🇩🇪  german 🇩🇪.
 - 👯 I’m looking to collaborate on open source projects in order to improve my skills.
-<br />
 - 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/leandro-fra%C3%A7%C3%A3o-192738214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
