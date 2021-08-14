@@ -1,4 +1,3 @@
-# :construction: Under construction
 <figure>
 <img alt="zeros and ones with a heart pattern" src="binary_alexander_sinn_unplash.jpg" width="100%" height="200px"/>
 <figcaption style="font-size:10px">
@@ -6,14 +5,21 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 </figcaption>
 </figure>
 
-### Hello fellow dev 👋 I'm Leandro, hold on to your :coffee: and enjoy the ride!
+### Hello fellow dev 👋 I'm Leandro, hold on to your :coffee:
 
 ## :man: About me 
+<p> I'm a self taught developer indulging in the art of 0s and 1s interested in all things technology</p>
+<p> In my free time I like to ...wait... THERE IS NO FREE TIME!!!</p>
+
+- 🔭 I’m currently studying for the LPIC-1 and CLE-10-01 certificates
+- 🌐 I'm currently learning 🇮🇹 italian 🇮🇹 and 🇩🇪  german 🇩🇪 
+<!-- - 👯 I’m looking to collaborate on open source projects in order to improve my skills. -->
+
+<br />
+📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/leandro-fra%C3%A7%C3%A3o-192738214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
-<p> I'm a self taught developer indulging in the art of 0s and 1s</p>
-<p> In my free time I like to ...wait... THERE IS NO FREE TIME!!!</p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ldfracao&theme=blue-green&bg_color=0,000000,053000&text_color=FFFFFF&custom_title=Hero's stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green&layout=compact&exclude_repo=nand2tetris&bg_color=0,053000,095c00&text_color=FFFFFF&custom_title=Super powers">
 
