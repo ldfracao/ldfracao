@@ -43,7 +43,9 @@ Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_med
 <img align="left" alt="ubuntu logo" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
 <a href="https://www.gimp.org/"><img src="https://img.icons8.com/fluent/50/000000/gimp.png"/></a>
 
-<h2>:man_in_tuxedo: Outside of coding I enjoy:</h2>
+<h2> Outside of coding I enjoy:</h2>
 <p>:notes: Playing acoustic/eletric guitar. :guitar:</p>
 <p>:headphones: Listening to different types of music, from classical music all the way to heavy metal.</p>
 <p>:video_game: Playing games like Overwatch or CS:GO.</p>
+<p>:bicyclist: Riding my bicicle</p>
+<p>:spades: :hearts: :diamonds: :clubs: Playing poker and :chess_pawn: chess</p>
