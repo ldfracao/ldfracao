@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on open source projects in order to improve my skills.
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ldfracao&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldfracao&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>:computer: Programming languages </h2>
